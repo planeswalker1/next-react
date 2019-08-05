@@ -1,0 +1,17 @@
+{
+  "name": "next-react",
+  "version": "1.0.0",
+  "description": "next js site",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "author": "Daniel Munoz",
+  "license": "ISC",
+  "dependencies": {
+    "next": "^9.0.3",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  }
+}
